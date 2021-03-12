@@ -8,8 +8,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23000000?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/-CSS-%23000000?style=for-the-badge&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML5-%23000000?style=for-the-badge&logo=html5)
-<!--
-**natasha17-spec/natasha17-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 ### 📧 Mail me: 17061990@inbox.ru
