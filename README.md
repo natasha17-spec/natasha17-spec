@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML5-%23000000?style=for-the-badge&logo=html5)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-%23000000?style=for-the-badge&logo=material-ui)
 
-Here are some ideas to get you started:
+You can contact me:
 ### 📧 Mail me: 17061990@inbox.ru
 ### 🌐 Telegram: Natali Gerasimovich
 #
