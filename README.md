@@ -1,4 +1,4 @@
-#👋 Hi, my name is **Natalia Gerasimovich!** 
+#👋 Hi, my name is **Natalia Kulagina!** 
 ## I'm a *Front-end developer*
 ### Languages and Technologies
 ![React](https://img.shields.io/badge/-React-%23000000?style=for-the-badge&logo=react)
@@ -12,7 +12,7 @@
 
 You can contact me:
 ### 📧 Mail me: 17061990@inbox.ru
-### 🌐 Telegram: Natali Gerasimovich
+### 🌐 Telegram: Natali Kulagina
 #
 > In order to succeed, we must first believe that we can. <br/>
 > ***Nikos Kazantzakis***
