@@ -1,5 +1,5 @@
 #👋 Hi, my name is **Natalia Gerasimovich!** 
-## I'm a *Front-end developer* from Belarus,Minsk.
+## I'm a *Front-end developer*
 ### Languages and Technologies
 ![React](https://img.shields.io/badge/-React-%23000000?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-%23000000?style=for-the-badge&logo=redux)
